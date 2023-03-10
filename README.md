@@ -15,7 +15,7 @@ Project is created with:
  
 ## TODO
 Things to do:
-* Create basic GUI three columns
+* Create basic GUI - three columns
 * Implement adding tasks functionality
 
 
