@@ -4,7 +4,7 @@ Reverse engineering an application similar to Trello (only basic functionalities
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [TODO](#TODO)
+* [TODO](#todo)
 
 
 ## General info
