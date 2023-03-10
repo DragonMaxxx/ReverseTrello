@@ -19,7 +19,7 @@ Project is created with:
  
 ## To improve
 Improvement list:
-*
+
 To do:
 * Create basic GUI - three columns
 * Implement adding tasks functionality
