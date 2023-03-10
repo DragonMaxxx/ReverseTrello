@@ -4,11 +4,12 @@ Reverse engineering an application similar to Trello (only basic functionalities
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [TODO](#todo)
+* [To improve](#to-improve)
+* [Inspiration](#inspiration)
 
 
 ## General info
-This project is a simple project management tools like Trello, Asana etc.
+This project is a simple project management tools like Trello, Asana etc. As a way to learn new technologies during University period.
 	
 ## Technologies
 Project is created with:
@@ -16,12 +17,14 @@ Project is created with:
 * Flutter?
 * Other 
  
-## TODO
-Things to do:
+## To improve
+Improvement list:
+*
+To do:
 * Create basic GUI - three columns
 * Implement adding tasks functionality
 
-## Sources
-This app is inspired Trello (https://trello.com)
+## Inspiration
+This app is inspired by Trello (https://trello.com)
 
 
