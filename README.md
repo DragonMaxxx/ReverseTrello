@@ -12,6 +12,9 @@ This project is a simple project management tools like Trello, Asana etc.
 	
 ## Technologies
 Project is created with:
+* React?
+* Flutter?
+* 
  
 ## TODO
 Things to do:
