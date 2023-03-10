@@ -14,8 +14,9 @@ This project is a simple project management tools like Trello, Asana etc.
 Project is created with:
  
 ## TODO
-Create basic GUI three columns
-[Implement adding tasks functionality]
+Things to do:
+* Create basic GUI three columns
+* Implement adding tasks functionality
 
 
 
