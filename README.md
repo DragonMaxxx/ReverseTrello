@@ -13,9 +13,7 @@ This project is a simple project management tools like Trello, Asana etc. As a w
 	
 ## Technologies
 Project is created with:
-* React?
-* Flutter?
-* Other 
+* React
  
 ## To improve
 Improvement list:
