@@ -14,7 +14,7 @@ This project is a simple project management tools like Trello, Asana etc.
 Project is created with:
 * React?
 * Flutter?
-* 
+* Other 
  
 ## TODO
 Things to do:
