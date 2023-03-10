@@ -4,20 +4,15 @@ Reverse engineering an application similar to Trello (only basic functionalities
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Features](#features)
-* [Setup](#setup)
+* [TODO](#TODO)
+
 
 ## General info
-This project is a simple project management tools like Trello, Asana and etc.
+This project is a simple project management tools like Trello, Asana etc.
 	
 ## Technologies
 Project is created with:
-* 
-## Features
+ 
+## TODO
 
-## Setup
-To run this project, install it locally using:
 
-```
-
-```
